@@ -1,0 +1,65 @@
+body {
+height:100vh;
+width: 100vw;
+display:flex;
+flex-wrap:wrap;
+background-color:black;
+
+
+}
+
+.head3 {
+	height:20vh;
+	width:100vw;
+	background-color:#005B5B;
+	border:solid;
+	border-color:white;
+}
+.text3{
+	font-family:lemon;
+	font-size:30px;
+	text-align:center;
+	
+}
+.box {
+	height:40vh;
+	width:50vw;
+	display:flex;
+	flex-wrap:wrap;
+}
+	
+.red {
+	background-color:red;
+}
+.orange {
+	background-color:orange;	
+}
+
+.box2 {
+	height:40vh;
+	width:calc(100vw/3);
+	background-image:url("image/red bus.jpg");
+	background-repeat:no-repeat;
+}
+
+.burgundy {
+	background-color:#5B0000;	
+}
+
+@media screen and (max-width: 800px) {
+ 
+.box {
+	height:50vh;
+	width:100vw;
+	display:block;
+
+}
+	
+.box2 {
+	width:100vw;
+	height:50vh;
+	display:block;
+	
+}
+
+}
