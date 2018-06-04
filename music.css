@@ -1,0 +1,51 @@
+body {
+	height:100vh;
+	width:100vw;
+	display:flex;
+	flex-wrap:wrap;
+	background-color:#5B0000;
+}
+.text2{
+	font-family:happy monkey;
+	font-size:30px;
+	
+}
+.head2 {
+	height:20vh;
+	width:100vw;
+	background-color:#005B5B;
+	border:solid;
+	border-color:black;
+	font-family:lemon;
+	
+}
+
+.box {
+	height:40vh;
+	width:15vw;
+	display:flex;
+	flex-wrap:wrap;
+	margin:2%;
+	
+}
+@media screen and (max-width: 800px) {
+
+.head2 {
+	height:25vh;
+	width:100vw;
+	background-color:#005B5B;
+	border:solid;
+	border-color:black;
+	font-size:23px;
+	
+}
+
+.box {
+	height:40vh;
+	width:15vw;
+	display:flex;
+	flex-wrap:wrap;
+	margin:1%;
+	
+}
+}
