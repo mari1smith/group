@@ -45,7 +45,8 @@ body {
 	max-height:100%;
 	background-repeat:no-repeat;
 }
-#in the media queiry I changed the displays to block so that they can stack vertically for mobile
+<!---in the media queiry I changed the displays to block so that they can stack vertically for mobile>
+<!---breakpoint is 1000>
 @media screen and (max-width: 1000px) {
 .head1{
 	height:50vh;
