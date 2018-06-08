@@ -5,11 +5,13 @@ body {
 	flex-wrap:wrap;
 	background-color:#5B0000;
 }
+<!--- specialized text class for text 2>
 .text2{
 	font-family:happy monkey;
 	font-size:30px;
 	
 }
+<!--- specialized text class for header2>
 .head2 {
 	height:20vh;
 	width:100vw;
