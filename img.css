@@ -43,7 +43,7 @@ body {
 	background-image:url("image/pnbrock.jpg");
 }
 
-
+<!---breakpoint of media quiery is 900-->
 @media only screen and (max-width: 900px) {
 	
 .img{
