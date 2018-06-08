@@ -5,6 +5,7 @@ body {
 	flex-wrap:wrap;
 	
 }
+
 .text1{
 	font-family:happy monkey;
 	font-size:23px;
@@ -38,13 +39,13 @@ body {
 .red{
 	background-color:red;
 }
-
+#to minimize code I gave each image the same factors in on section
 .img{
 	max-width:100%;
 	max-height:100%;
 	background-repeat:no-repeat;
 }
-
+#in the media queiry I changed the displays to block so that they can stack vertically for mobile
 @media screen and (max-width: 1000px) {
 .head1{
 	height:50vh;
