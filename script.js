@@ -1,5 +1,5 @@
 function playsong1(e){
-	<!--This code allows you to click on an image and the image will play a song-->
+	<!--This code allows you to click on an image and the image will play "chris"-->
 	document.getElementById("chris").play();
 	document.getElementById("anti").pause();
 	document.getElementById("feelins").pause();
@@ -13,7 +13,7 @@ function playsong1(e){
 
 }
 function playsong2(e){
-	<!--This code allows you to click on an image and the image will play a song-->
+	<!--This code allows you to click on an image and the image will play "anti"-->
 	document.getElementById("anti").play();
 	document.getElementById("chris").pause();
 	document.getElementById("feelins").pause();
@@ -28,7 +28,7 @@ function playsong2(e){
 }
 
 function playsong3(e){
-	<!--This code allows you to click on an image and the image will play a song-->
+	<!--This code allows you to click on an image and the image will play "feelins"-->
 	document.getElementById("feelins").play();
 	document.getElementById("chris").pause();
 	document.getElementById("anti").pause();
@@ -41,7 +41,7 @@ function playsong3(e){
 	document.getElementById("loveg").pause();
 }
 function playsong4(e){
-	<!--This code allows you to click on an image and the image will play a song-->
+	<!--This code allows you to click on an image and the image will play "motor"->
 	document.getElementById("chris").pause();
 	document.getElementById("anti").pause();
 	document.getElementById("feelins").pause();
@@ -54,7 +54,7 @@ function playsong4(e){
 	document.getElementById("loveg").pause();
 }
 function playsong5(e){
-	<!--This code allows you to click on an image and the image will play a song-->
+	<!--This code allows you to click on an image and the image will play "nolimit"-->
 	document.getElementById("chris").pause();
 	document.getElementById("anti").pause();
 	document.getElementById("feelins").pause();
@@ -67,7 +67,7 @@ function playsong5(e){
 	document.getElementById("loveg").pause();
 }
 function playsong6(e){
-	<!--This code allows you to click on an image and the image will play a song-->
+	<!--This code allows you to click on an image and the image will play "america"-->
 	document.getElementById("chris").pause();
 	document.getElementById("anti").pause();
 	document.getElementById("feelins").pause();
@@ -81,7 +81,7 @@ function playsong6(e){
 
 }
 function playsong7(e){
-	<!--This code allows you to click on an image and the image will play a song-->
+	<!--This code allows you to click on an image and the image will play "backup"-->
 	document.getElementById("chris").pause();
 	document.getElementById("anti").pause();
 	document.getElementById("feelins").pause();
@@ -94,7 +94,7 @@ function playsong7(e){
 	document.getElementById("loveg").pause();
 }
 function playsong8(e){
-	<!--This code allows you to click on an image and the image will play a song-->
+	<!--This code allows you to click on an image and the image will play "needme"-->
 	document.getElementById("chris").pause();
 	document.getElementById("anti").pause();
 	document.getElementById("feelins").pause();
@@ -107,7 +107,7 @@ function playsong8(e){
 	document.getElementById("loveg").pause();
 }
 function playsong9(e){
-	<!--This code allows you to click on an image and the image will play a song-->
+	<!--This code allows you to click on an image and the image will play "bardi"-->
 	document.getElementById("chris").pause();
 	document.getElementById("anti").pause();
 	document.getElementById("feelins").pause();
