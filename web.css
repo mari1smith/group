@@ -45,7 +45,7 @@ background-color:black;
 .burgundy {
 	background-color:#5B0000;	
 }
-
+<!---breakpoint of media quiery is 800-->
 @media screen and (max-width: 800px) {
  
 .box {
