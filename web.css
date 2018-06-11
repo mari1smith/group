@@ -35,7 +35,7 @@ background-color:black;
 .orange {
 	background-color:orange;	
 }
-
+<!--- used calc function to make sure each picture was equally the same size>
 .box2 {
 	height:40vh;
 	width:calc(100vw/3);
