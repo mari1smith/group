@@ -20,7 +20,7 @@ body {
 	overflow: visible;
 	cursor: pointer;
 }
-
+<!---background images for songs>
 .chrisbrown {
 	background-image:url("https://user-images.githubusercontent.com/26973179/40947064-a4bd4da2-6815-11e8-822e-822d64095cda.jpg");
 }
